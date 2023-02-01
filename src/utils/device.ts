@@ -1,3 +1,6 @@
+/**
+ * 平台相关的工具代码
+ */
 import {Platform} from 'react-native';
 import DeviveInfo from 'react-native-device-info';
 

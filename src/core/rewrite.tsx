@@ -1,5 +1,8 @@
-// 重写错误逻辑
+/**
+ * 重写RN原有API
+ */
 
+// 重写错误逻辑
 const defaultHandler =
   ErrorUtils.getGlobalHandler && ErrorUtils.getGlobalHandler();
 

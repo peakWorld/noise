@@ -1,3 +1,6 @@
+/**
+ * 用户相关的工具代码
+ */
 import uuid from 'react-native-uuid';
 import {MMKV} from 'react-native-mmkv';
 
